@@ -1,4 +1,4 @@
-# AI Engineer Roadmap 2026, as a website
+# AI Engineer Roadmap, as a website
 
 A searchable, trackable web version of the **AI Engineer Roadmap 2026** by
 **[Aditya Dewaskar](https://www.youtube.com/@dewaskaraditya)** (Token Maxr).
